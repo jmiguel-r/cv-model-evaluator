@@ -3,7 +3,7 @@
 > **A systematic framework for evaluating, benchmarking, and auditing computer vision models.**  
 > Built to support RLHF/RLAIF feedback pipelines — identify failure modes, compare architectures, and validate annotation quality.
 
-[![CI](https://github.com/YOUR_USERNAME/cv-model-evaluator/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/cv-model-evaluator/actions)
+[![CI](https://github.com/jmiguel-r/cv-model-evaluator/actions/workflows/ci.yml/badge.svg)](https://github.com/jmiguel-r/cv-model-evaluator/actions)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
