@@ -17,6 +17,7 @@ jobs:
       - run: pip install --upgrade pip
       - run: pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
       - run: pip install -r requirements.txt
-      - run: ruff check src/ tests/
-      - run: pytest tests/ -v
+      - run: ls -la
+      - run: python -m ruff check src tests
+      - run: python -m pytest tests/ -v
 
