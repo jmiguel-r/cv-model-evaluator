@@ -1,4 +1,4 @@
-# CV Model Evaluator
+# CV Model Evaluator Py
 
 > **A systematic framework for evaluating, benchmarking, and auditing computer vision models.**  
 > Built to support RLHF/RLAIF feedback pipelines — identify failure modes, compare architectures, and validate annotation quality.
